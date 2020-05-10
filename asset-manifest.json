@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zac-lee/static/css/main.297f6095.chunk.css",
+    "main.css": "/zac-lee/static/css/main.1f7d5acf.chunk.css",
     "main.js": "/zac-lee/static/js/main.b9b72f92.chunk.js",
     "main.js.map": "/zac-lee/static/js/main.b9b72f92.chunk.js.map",
     "runtime-main.js": "/zac-lee/static/js/runtime-main.926ab3e2.js",
@@ -8,15 +8,16 @@
     "static/js/2.260aeb1c.chunk.js": "/zac-lee/static/js/2.260aeb1c.chunk.js",
     "static/js/2.260aeb1c.chunk.js.map": "/zac-lee/static/js/2.260aeb1c.chunk.js.map",
     "index.html": "/zac-lee/index.html",
-    "precache-manifest.553453e9272017f9a5cc45d98370707b.js": "/zac-lee/precache-manifest.553453e9272017f9a5cc45d98370707b.js",
+    "precache-manifest.76d20785d683425a483b49f460374354.js": "/zac-lee/precache-manifest.76d20785d683425a483b49f460374354.js",
     "service-worker.js": "/zac-lee/service-worker.js",
-    "static/css/main.297f6095.chunk.css.map": "/zac-lee/static/css/main.297f6095.chunk.css.map",
-    "static/js/2.260aeb1c.chunk.js.LICENSE.txt": "/zac-lee/static/js/2.260aeb1c.chunk.js.LICENSE.txt"
+    "static/css/main.1f7d5acf.chunk.css.map": "/zac-lee/static/css/main.1f7d5acf.chunk.css.map",
+    "static/js/2.260aeb1c.chunk.js.LICENSE.txt": "/zac-lee/static/js/2.260aeb1c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/zac-lee/static/media/overlay.b0e59414.png"
   },
   "entrypoints": [
     "static/js/runtime-main.926ab3e2.js",
     "static/js/2.260aeb1c.chunk.js",
-    "static/css/main.297f6095.chunk.css",
+    "static/css/main.1f7d5acf.chunk.css",
     "static/js/main.b9b72f92.chunk.js"
   ]
 }
